@@ -1,1 +1,2 @@
 Hello , Welcome to tutorial. 
+In this tutorial we are going to learn about Git and GitHub. 
